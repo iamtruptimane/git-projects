@@ -1,6 +1,6 @@
 # git-projects
 This is git project repository
 
-1. [Setup a git repository](/projects/01-set-up-git/project.md)
-2. [Clone a git repository](/projects/02-clone-git-repo/project.md)
+1. [Setup a git repository](https://github.com/iamtruptimane/git-projects/tree/main/projects/01-set-up-git)
+2. [Clone a git repository](https://github.com/iamtruptimane/git-projects/tree/main/projects/02-clone-git-repo)
  
